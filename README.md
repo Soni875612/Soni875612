@@ -221,4 +221,4 @@ I’m passionate about learning, building data-driven solutions, and growing in 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:0F172A,70:1E293B,100:334155" width="100%"/>
