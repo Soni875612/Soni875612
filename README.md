@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Soni%20&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Excel%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Python&descAlignY=60&descSize=18&color=0:020617,35:0F172A,70:1E293B,100:334155" width="100%"/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=650&lines=Turning+Data+into+Actionable+Insights+📊;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Aspiring+Data+Analyst+from+India+🇮🇳" alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=soni875612&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS" />
