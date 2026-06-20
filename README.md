@@ -25,7 +25,7 @@
 ```yaml
 Name      : Soni
 Role      : Data Analyst
-Location  : Kanpur, Uttar Pradesh, India 🇮🇳
+Location  : Gurgaon,Haryana, India 🇮🇳
 Education : Artificial Intelligence Programming Assistant (NSTI)
 ```
 
